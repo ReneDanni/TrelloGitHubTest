@@ -6,11 +6,9 @@
 /* data da ultima alteracao: 14/05/2016        */
 /***********************************************/ 
 
-#include <stdio.h>
-#include <conio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <locale.h>
+
+#include <iostream>
+
 
 
 #define FALSE   0      // constante falsa
